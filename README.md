@@ -1,5 +1,5 @@
 # NumPy Tutorial
-
+ 
 > A structured, ground-up curriculum for mastering NumPy as a foundation for deep learning engineering — culminating in a neural network trained on MNIST using **zero deep learning frameworks**.
 
 ---
